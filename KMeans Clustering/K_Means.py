@@ -99,10 +99,10 @@ def run_KMeans(Raw_Data, K):
 
 # run_KMeans('Test_Text.txt', 2)
 
-run_KMeans('glove.6B.50d.txt', 100)
-run_KMeans('glove.6B.50d.txt', 300)
-run_KMeans('glove.6B.50d.txt', 500)
-run_KMeans('glove.6B.50d.txt', 700)
-run_KMeans('glove.6B.50d.txt', 900)
+# run_KMeans('glove.6B.50d.txt', 100)
+# run_KMeans('glove.6B.50d.txt', 300)
+# run_KMeans('glove.6B.50d.txt', 500)
+# run_KMeans('glove.6B.50d.txt', 700)
+# run_KMeans('glove.6B.50d.txt', 900)
 
 

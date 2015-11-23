@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>recreation_seg/0 (1).txt</textfile>
+    <lang>chinese</lang>
+  </header>
+    <body>
+<segment features='entity;people' state='active'>陈奕迅</segment> <segment features='entity;place' state='active'>台北</segment> 宣传 新 专辑 《 <segment features='entity;music' state='active'>米 · 闪</segment> 》 
+ 
+<segment features='entity;date' state='active'>2014年 07月 13日</segment> <segment features='entity;time' state='active'>21:33:12</segment> | 责任 编辑 :  <segment features='entity;people' state='active'>陈杰</segment> | 来源 ：  <segment features='entity;media' state='active'>新华网</segment> ? 关键 词 ? <segment features='entity;people' state='active'>陈奕迅</segment> <segment features='entity;place' state='active'>台北</segment> 专辑 <segment features='entity;people' state='active'>林俊杰</segment> 
+# （ 晚报 ） （ 1 ） <segment features='entity;people' state='active'>陈奕迅</segment> <segment features='entity;place' state='active'>台北</segment> 宣传 新 专辑 《 <segment features='entity;music' state='active'>米 · 闪</segment> 》 
+ 
+<segment features='entity' state='active'>7月 13日</segment> ， <segment features='entity;people' state='active'>陈奕迅</segment> 在 <segment features='entity;place' state='active'>台北</segment> 亮相 新 专辑 《 <segment features='entity;music' state='active'>米 · 闪</segment> 》 签名 会 。 当日 ， <segment features='entity' state='active'>香港</segment> 歌手 <segment features='entity;people' state='active'>陈奕迅</segment> 在 <segment features='entity;place' state='active'>台北</segment> 举行 新 专辑 <segment features='entity;event' state='active'>《 <segment features='entity;music' state='active'>米 · 闪</segment> 》 签名会</segment> 。 新 专辑 <segment features='entity;number' state='active'>2</segment> 张 CD 共 收录 <segment features='entity;number' state='active'>10</segment> 首 歌曲 ， 其中 包括 <segment features='entity;people' state='active'>林俊杰</segment> 为 其 度身 打造 的 <segment features='entity;number' state='active'>5</segment> 首 抒情 风格 作品 ， 专辑 已 于 <segment features='entity;time' state='active'>5月</segment> 正式 发行 。 <segment features='entity;institute' state='active'>新华 社</segment>发 
+    </body>
+</document>
